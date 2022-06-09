@@ -1,0 +1,23 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: ESA-UNICEF Dengue Forecast Project
+message: 'If you use this software, please cite it as below.'
+type: software
+authors:
+  - given-names: Alessandro
+    family-names: Sebastianelli
+    email: alessandro.sebastianelli1995@gmail.com
+    orcid: 'https://orcid.org/0000-0002-9252-907X'
+  - given-names: Raquel
+    orcid: 'https://orcid.org/0000-0003-0808-3480'
+    family-names: Carmo
+    email: raquelarscarmo@gmail.com
+  - given-names: Dario
+    family-names: Spiller
+    email: dario.spiller@uniroma1.it
+    orcid: 'https://orcid.org/0000-0002-6877-3187'
+  - given-names: Rochelle
+    family-names: Schneider
+    orcid: 'https://orcid.org/0000-0002-2905-0154'
