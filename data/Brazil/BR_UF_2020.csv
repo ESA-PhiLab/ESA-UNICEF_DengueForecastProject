@@ -1,0 +1,28 @@
+CD_UF,NM_UF,SIGLA_UF,NM_REGIAO
+"11",Rondônia,RO,Norte
+"12",Acre,AC,Norte
+"13",Amazonas,AM,Norte
+"14",Roraima,RR,Norte
+"15",Pará,PA,Norte
+"16",Amapá,AP,Norte
+"17",Tocantins,TO,Norte
+"21",Maranhão,MA,Nordeste
+"22",Piauí,PI,Nordeste
+"23",Ceará,CE,Nordeste
+"24",Rio Grande do Norte,RN,Nordeste
+"25",Paraíba,PB,Nordeste
+"26",Pernambuco,PE,Nordeste
+"27",Alagoas,AL,Nordeste
+"28",Sergipe,SE,Nordeste
+"29",Bahia,BA,Nordeste
+"31",Minas Gerais,MG,Sudeste
+"32",Espírito Santo,ES,Sudeste
+"33",Rio de Janeiro,RJ,Sudeste
+"35",São Paulo,SP,Sudeste
+"41",Paraná,PR,Sul
+"42",Santa Catarina,SC,Sul
+"43",Rio Grande do Sul,RS,Sul
+"50",Mato Grosso do Sul,MS,Centro-oeste
+"51",Mato Grosso,MT,Centro-oeste
+"52",Goiás,GO,Centro-oeste
+"53",Distrito Federal,DF,Centro-oeste
