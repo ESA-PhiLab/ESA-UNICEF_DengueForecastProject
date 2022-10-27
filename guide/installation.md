@@ -3,11 +3,11 @@
 **This guide can be ignore for people running the code in google colaboratory**
 
 
-## Python and Anaconda Installation
+## 1. Python and Anaconda Installation
 
-## Setup the Anaconda environment
+## 2. Setup the Anaconda environment
 
-### Clone the repository on you desktop
+### a. Clone the repository on you desktop
 
 This operation can be done in two ways:
 
@@ -15,7 +15,7 @@ This operation can be done in two ways:
    `git https://github.com/ESA-PhiLab/ESA-UNICEF_DengueForecastProject`
 2. download the project on your desktop
 
-### Create a new virtual environment
+### b. Create a new virtual environment
 This allows to create a isolated environment and to control the installation of dependancies without affecting your python base installation.
 
 Before creating a new environment, be sure that the default anaconda enviroment is not active. By opening a terminal, you just need to check if before you user name there is something like ` (base) username: $`. If so run this command first:
@@ -26,13 +26,13 @@ otherwise run directly this command, that creates a new enviroment (change youre
 
 ` conda create -n yourenvname python=x.x anaconda`
 
-### Acticate the virtual environment
+### c. Acticate the virtual environment
 
 To work on the environment you need to activate it first
 
 ` conda activate yourenvname `
 
-### Install dependancies
+### d. Install dependancies
 
 First thing first, you need to move to the project folder
 
