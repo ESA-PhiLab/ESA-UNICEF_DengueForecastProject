@@ -42,6 +42,6 @@ then you need to install pip (python package manager) on the conda environment
 
 ` conda install pip `
 
-Then you can install the remaining packages listed in *[requirements.txt](code\requirements.txt)*
+Then you can install the remaining packages listed in *[requirements.txt](../code/requirements.txt)*
 
 ` pip install code\requirements.txt `
