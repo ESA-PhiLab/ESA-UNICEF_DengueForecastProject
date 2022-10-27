@@ -1,6 +1,6 @@
 # Installation guide
 
-**This guide can be ignore for people running the code in google colaboratory*
+**This guide can be ignore for people running the code in google colaboratory**
 
 
 ## Python and Anaconda Installation
