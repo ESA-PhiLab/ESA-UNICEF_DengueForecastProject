@@ -5,6 +5,14 @@
 
 ## 1. Python and Anaconda Installation
 
+You can rely on the original installation guide:
+
+- [Windows installation](https://docs.anaconda.com/anaconda/install/windows/)
+- [MacOS installation](https://docs.anaconda.com/anaconda/install/mac-os/)
+- [Linux installation](https://docs.anaconda.com/anaconda/install/linux/)
+
+For other Operation Systems please refer to [Anaconda Install](https://docs.anaconda.com/anaconda/install/index.html).
+
 ## 2. Setup the Anaconda environment
 
 ### a. Clone the repository on you desktop
