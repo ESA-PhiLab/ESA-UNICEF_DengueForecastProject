@@ -4,6 +4,8 @@
 ![model](ens_model.png)
 
 
+TO-DO: add some context, maybe from report
+
 ## Interactive Guide
 
 1. [Installation guide](guide/installation.md)
@@ -13,8 +15,7 @@
 
 
 
-## Cite our paper
-
+## Cite our papers
 
 1. Schneider, R., Sebastianelli, A., Spiller, D., Wheeler, J., Carmo, R., Nowakowski, A., ... & Lowe, R. (2021). Climate-based ensemble machine learning model to forecast Dengue epidemics (papers track). In Thirty-eighth International Conference on Machine Learning (ICML) 2021.
 
@@ -25,5 +26,5 @@
             year={2021}
         }
 
-2. 
+2.TO DO: add new paper
 
