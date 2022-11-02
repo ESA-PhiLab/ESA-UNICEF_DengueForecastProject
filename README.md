@@ -1,37 +1,30 @@
-# ESA-UNICEF Dengue Forecast Project
+# AI4EO - Dengue Forecast
+
+
 ![model](ens_model.png)
 
-This repository is currently under development.
 
-## Installation
+TO-DO: add some context, maybe from report
 
-In your preferred command terminal:
+## Interactive Guide
 
-1. Clone this repository 
+1. [Installation guide](guide/installation.md)
 
-   ` git https://github.com/ESA-PhiLab/ESA-UNICEF_DengueForecastProject`
 
-2. Create a new virtual environment with conda or virtualenv
 
-	` conda create -n yourenvname python=x.x anaconda` 
-	
-	or
-	
-	` virtualenv yourenvname -p python3.x ` 	
 
-3. Activate the virtual environment
 
-	` conda activate yourenvname `
-	
-	or
-	
-	` source  yourenvname\scripts\activate ` (Linux/MacOS)
-	` yourenvname\Scripts\activate ` (Windows)
 
-4. Install dependencies listed in requirements.txt
+## Cite our papers
 
-   `pip install -r requirements.txt` 
-   
-   or
-   
-    `conda install --file requirements.txt`
+1. Schneider, R., Sebastianelli, A., Spiller, D., Wheeler, J., Carmo, R., Nowakowski, A., ... & Lowe, R. (2021). Climate-based ensemble machine learning model to forecast Dengue epidemics (papers track). In Thirty-eighth International Conference on Machine Learning (ICML) 2021.
+
+        @inproceedings{schneider2021climate,
+            title={Climate-based ensemble machine learning model to forecast Dengue epidemics (papers track)},
+            author={Schneider, Rochelle and Sebastianelli, Alessandro and Spiller, Dario and Wheeler, James and Carmo, Raquel and Nowakowski, Artur and Garcia-Herranz, Manuel and Kim, Dohyung and Barlevi, Hanoch and Cordero, Zoraya El Raiss and others},
+            booktitle={Thirty-eighth International Conference on Machine Learning (ICML) 2021},
+            year={2021}
+        }
+
+2.TO DO: add new paper
+
