@@ -1,4 +1,4 @@
-# AI4EO - Dengue Forecast
+# A reproducible ensemble machine learning approach to forecast dengue outbreaks
 
 
 ![model](ens_model.png)
