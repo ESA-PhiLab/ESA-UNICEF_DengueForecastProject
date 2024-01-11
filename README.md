@@ -11,7 +11,11 @@ TO-DO: add some context, maybe from report
 1. [Installation guide](guide/installation.md)
 
 
+## Code
 
+
+
+## Data
 
 
 
@@ -26,5 +30,11 @@ TO-DO: add some context, maybe from report
             year={2021}
         }
 
-2.TO DO: add new paper
-
+2. Sebastianelli, A., Spiller, D.,  Carmo, R.,  Wheeler, J., Nowakowski, A., ... & Schneider, R. (2024). A reproducible ensemble machine learning approach to forecast dengue outbreaks. In Nature Scientific Reports.
+        
+        @inproceedings{sebsatianelli2024reproducible,
+            title={A reproducible ensemble machine learning approach to forecast dengue outbreaks},
+            author={Alessandro Sebastianelli, Dario Spiller, Raquel Carmo, James Wheeler, Artur Nowakowski, Ludmilla Viana Jacobson, Dohyung Kim, Hanoch Barlevi, Zoraya El Raiss Cordero, Felipe J Colon-Gonzalez, Rachel Lowe, Silvia Liberata Ullo, and Rochelle Schneider}, 
+            journal={Nature Scientific Reports},
+            year={2024},
+        }
