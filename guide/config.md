@@ -11,4 +11,3 @@ The configuration file allows to set:
 ## PLS/PCA Settings
 
 ## Machine Learning models settings
-
