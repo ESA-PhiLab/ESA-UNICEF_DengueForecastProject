@@ -6,8 +6,8 @@ The configuration file allows to set:
 - PLS/PCA settings
 - Machine Learning models settings
 
-## Predictors List
+This settings are structured as python dictionary. The current configuration file is located in
 
-## PLS/PCA Settings
+<code>code/config.py</code>
 
-## Machine Learning models settings
+the settings are the ones used to produce the results in our paper.
